@@ -1,0 +1,16 @@
+{
+	"name": "exercise-tracker",
+	"version": "1.0.0",
+	"description": "API project using mongoDB",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"express": "^4.16.4",
+		"mongoose": "^6.0.0"
+	},
+	"license": "MIT",
+	"author": "kulmarcin"
+}
